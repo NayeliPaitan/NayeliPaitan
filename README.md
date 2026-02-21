@@ -72,6 +72,9 @@ I specialize in building scalable digital solutions combining software developme
 - 💼 LinkedIn: https://www.linkedin.com/in/nayeli-alison-paitan-ramirez/
 - 📧 Email: paitannayeli@gmail.com
 <p align="left"> <a href="https://www.linkedin.com/in/nayeli-alison-paitan-ramirez/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="40"/> </a> <a href="mailto:paitannayeli@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="40"/> </a> <a href="https://github.com/TU-USUARIO"> <img src="https://skillicons.dev/icons?i=github" height="40"/> </a> </p>
+
+👨‍💻 Languages & Frameworks
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,php,java,vue,html,css,tailwind,bootstrap" /> </p>
 ---
 
 ⭐ Always learning. Always building.
