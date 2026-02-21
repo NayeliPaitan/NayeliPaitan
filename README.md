@@ -1,10 +1,11 @@
-# 👋 Hi, I'm Nayeli Paitan
+<h1 align="center">👋 Hi, I'm Nayeli Paitan</h1>
 
-💻 Systems Engineer | Software Developer | Data & Automation  
-🚀 Building real-world digital solutions  
-🌎 Peru  
+<p align="center">
+💻 Systems Engineer | Software Developer | Data & Automation <br>
+🚀 Building real-world digital solutions <br>
+🌎 Peru
+</p>
 
----
 
 ## 🧠 About Me
 
@@ -23,29 +24,26 @@ I specialize in building scalable digital solutions combining software developme
 ## ⚡ Tech Stack
 
 ### 👨‍💻 Languages & Frameworks
-- Python
-- JavaScript / TypeScript
-- Node.js
-- PHP
-- Java
-- Vue.js
-- HTML5 / CSS3 / Tailwind / Bootstrap
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,php,java,vue,html,css,tailwind,bootstrap" />
+</p>
 
 ### 🗄️ Databases
-- PostgreSQL
-- MySQL
-- SQL Server
-- MongoDB
-- Snowflake
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+</p>
 
 ### 🔧 Tools & Technologies
-- Git & GitHub
-- Docker
-- Linux
-- n8n (Automation & Integrations)
-- Odoo ERP
-- Power BI
-- REST APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,npm,vite" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
 
 ---
 
@@ -72,9 +70,5 @@ I specialize in building scalable digital solutions combining software developme
 - 💼 LinkedIn: https://www.linkedin.com/in/nayeli-alison-paitan-ramirez/
 - 📧 Email: paitannayeli@gmail.com
 <p align="left"> <a href="https://www.linkedin.com/in/nayeli-alison-paitan-ramirez/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="40"/> </a> <a href="mailto:paitannayeli@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="40"/> </a> <a href="https://github.com/TU-USUARIO"> <img src="https://skillicons.dev/icons?i=github" height="40"/> </a> </p>
-
-👨‍💻 Languages & Frameworks
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,php,java,vue,html,css,tailwind,bootstrap" /> </p>
----
 
 ⭐ Always learning. Always building.
