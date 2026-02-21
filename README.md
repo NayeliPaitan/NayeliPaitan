@@ -1,9 +1,9 @@
 # 👋 Hola, soy Nayeli Paitan
 
 💻 Ingeniera en Sistemas  
-🚀 Desarrollo backend, APIs y análisis de datos  
-🌎 Perú  
-
+🚀 Desarrollo backend, APIs y análisis de datos 
+🧠 Construyo soluciones reales con código  
+🌎 Perú 🇵🇪
 ---
 
 ## 🧠 Tecnologías
@@ -14,17 +14,23 @@
 - APIs REST
 - Git & GitHub
 - Linux
-
 ---
 
 ## 🚀 Proyectos Destacados
 
-🔹 TX-Channel — Sistema de gestión de señales  
-🔹 Chatbot de ventas por WhatsApp  
-🔹 Análisis de datos LMS  
+🔹 Sistema de gestión de señales de streaming
+🔹 Chatbot de ventas por WhatsApp con N8n
+🔹 Análisis de datos LMS  con Snowflake 
+---
 
+## 🌱 Actualmente aprendiendo
+
+- Arquitecturas escalables  
+- Cloud & DevOps  
+- Sistemas distribuidos  
 ---
 
 ## 📫 Contacto
 
-- LinkedIn: (tu enlace)
+- LinkedIn: https://www.linkedin.com/in/nayeli-alison-paitan-ramirez/
+- Email: paitannayeli@gmail.com
