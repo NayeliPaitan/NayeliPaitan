@@ -51,7 +51,7 @@ I specialize in building scalable digital solutions combining software developme
 
 ## 🚀 Featured Projects
 
-🔹 TX-Channel — Streaming signal management system  
+🔹 Streaming signal management system  
 🔹 WhatsApp Sales Bot (API + n8n automation)  
 🔹 LMS Data Analysis with Snowflake & Power BI  
 🔹 Corporate websites & digital transformation projects  
