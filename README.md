@@ -37,7 +37,9 @@ I specialize in building scalable digital solutions combining software developme
 
 ### 🔧 Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux,npm,vite,pinia,spring,sqlite,selenium,wordpress" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gitbash" />
+  <img src="https://skillicons.dev/icons?i=github,postman,docker,linux,npm,vite,pinia,spring,sqlite,selenium,wordpress" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=n8n" />
   <img src="https://skills.syvixor.com/api/icons?i=powerbi,rest" />
   <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
