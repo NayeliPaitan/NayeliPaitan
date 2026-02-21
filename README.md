@@ -31,18 +31,16 @@ I specialize in building scalable digital solutions combining software developme
 ### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" />
+  <img src="https://skills.syvixor.com/api/icons?i=snowflake" />
 </p>
 
 ### 🔧 Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,npm,vite" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux,npm,vite,pinia,spring,sqlite,selenium,wordpress" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=n8n" />
+  <img src="https://skills.syvixor.com/api/icons?i=powerbi,rest" />
   <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
 ---
@@ -69,6 +67,11 @@ I specialize in building scalable digital solutions combining software developme
 
 - 💼 LinkedIn: https://www.linkedin.com/in/nayeli-alison-paitan-ramirez/
 - 📧 Email: paitannayeli@gmail.com
-<p align="left"> <a href="https://www.linkedin.com/in/nayeli-alison-paitan-ramirez/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="40"/> </a> <a href="mailto:paitannayeli@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="40"/> </a> <a href="https://github.com/TU-USUARIO"> <img src="https://skillicons.dev/icons?i=github" height="40"/> </a> </p>
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/nayeli-alison-paitan-ramirez/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="40"/> </a> 
+  <a href="mailto:paitannayeli@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="40"/> </a> 
+  <a href="https://github.com/NayeliPaitan"> <img src="https://skillicons.dev/icons?i=github" height="40"/> </a> 
+  <a href="mailto:paitannayeli@gmail.com"> <img src="https://skillicons.dev/icons?i=discord" height="40"/> </a> 
+  <a href="https://github.com/NayeliPaitan"> <img src="https://skillicons.dev/icons?i=figma,gitlab,instagram,robloxstudio,twitter" height="40"/> </a> 
 
 ⭐ Always learning. Always building.
