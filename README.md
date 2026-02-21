@@ -1,36 +1,77 @@
-# 👋 Hola, soy Nayeli Paitan
----
-💻 Ingeniera en Sistemas  
-🚀 Desarrollo backend, APIs y análisis de datos
-🧠 Construyo soluciones reales con código  
-🌎 Perú 🇵🇪
+# 👋 Hi, I'm Nayeli Paitan
+
+💻 Systems Engineer | Software Developer | Data & Automation  
+🚀 Building real-world digital solutions  
+🌎 Peru  
+
 ---
 
-## 🧠 Tecnologías
+## 🧠 About Me
 
+Systems & IT Engineer with experience in web development, data analysis, automation and system integration.
+
+I specialize in building scalable digital solutions combining software development, databases and process optimization.
+
+✔️ 2+ years developing and supporting digital systems  
+✔️ SQL, Snowflake & Power BI for data-driven decisions  
+✔️ Automation with n8n and API integrations  
+✔️ Experience with ERP (Odoo) and IT support  
+✔️ Security awareness (ISO 27001)
+
+---
+
+## ⚡ Tech Stack
+
+### 👨‍💻 Languages & Frameworks
 - Python
 - JavaScript / TypeScript
-- SQL / Snowflake
-- APIs REST
+- Node.js
+- PHP
+- Java
+- Vue.js
+- HTML5 / CSS3 / Tailwind / Bootstrap
+
+### 🗄️ Databases
+- PostgreSQL
+- MySQL
+- SQL Server
+- MongoDB
+- Snowflake
+
+### 🔧 Tools & Technologies
 - Git & GitHub
+- Docker
 - Linux
+- n8n (Automation & Integrations)
+- Odoo ERP
+- Power BI
+- REST APIs
+
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
-🔹 Sistema de gestión de señales de streaming
-🔹 Chatbot de ventas por WhatsApp con N8n
-🔹 Análisis de datos LMS  con Snowflake 
+🔹 TX-Channel — Streaming signal management system  
+🔹 WhatsApp Sales Bot (API + n8n automation)  
+🔹 LMS Data Analysis with Snowflake & Power BI  
+🔹 Corporate websites & digital transformation projects  
+
 ---
 
-## 🌱 Actualmente aprendiendo
+## 🎯 What I'm Currently Focused On
 
-- Arquitecturas escalables  
+- Scalable backend systems  
 - Cloud & DevOps  
-- Sistemas distribuidos  
+- Data engineering  
+- Automation & AI integration  
+
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/nayeli-alison-paitan-ramirez/
-- Email: paitannayeli@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/nayeli-alison-paitan-ramirez/
+- 📧 Email: paitannayeli@gmail.com
+
+---
+
+⭐ Always learning. Always building.
