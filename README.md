@@ -1,7 +1,7 @@
 # 👋 Hola, soy Nayeli Paitan
-
+---
 💻 Ingeniera en Sistemas  
-🚀 Desarrollo backend, APIs y análisis de datos 
+🚀 Desarrollo backend, APIs y análisis de datos
 🧠 Construyo soluciones reales con código  
 🌎 Perú 🇵🇪
 ---
