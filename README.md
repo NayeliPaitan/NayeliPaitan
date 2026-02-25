@@ -73,7 +73,8 @@ I specialize in building scalable digital solutions combining software developme
   <a href="https://www.linkedin.com/in/nayeli-alison-paitan-ramirez/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="40"/> </a> 
   <a href="mailto:paitannayeli@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="40"/> </a> 
   <a href="https://github.com/NayeliPaitan"> <img src="https://skillicons.dev/icons?i=github" height="40"/> </a> 
+  <a href="https://gitlab.com/paitannayeli"> <img src="https://skillicons.dev/icons?i=gitlab" height="40"/> </a> 
+  <a href="https://www.instagram.com/nayeli.paitan/"> <img src="https://skillicons.dev/icons?i=instagram" height="40"/> </a> 
   <a href="mailto:paitannayeli@gmail.com"> <img src="https://skillicons.dev/icons?i=discord" height="40"/> </a> 
-  <a href="https://github.com/NayeliPaitan"> <img src="https://skillicons.dev/icons?i=figma,gitlab,instagram,robloxstudio,twitter" height="40"/> </a> 
 
 ⭐ Always learning. Always building.
