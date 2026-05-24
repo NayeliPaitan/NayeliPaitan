@@ -25,7 +25,7 @@ I specialize in building scalable digital solutions combining software developme
 
 ### 👨‍💻 Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,php,java,vue,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,php,java,vue,html,css,tailwind,bootstrap" />
 </p>
 
 ### 🗄️ Databases
